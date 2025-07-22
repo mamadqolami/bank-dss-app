@@ -8,7 +8,6 @@ This app helps marketing teams to upload customer data, select or ensemble multi
 ## 🚀 Live App
 
 👉 [Click here to access the Online DSS App](https://bank-dss-app-h6hv27fvhj29qphnznvk6n.streamlit.app)  
-*(Replace with your real link after deployment)*
 
 ---
 
@@ -75,25 +74,13 @@ This project implements a full pipeline for **imbalanced customer classification
 
 ## 👥 Contributors
 
-| Name           | GitHub                                      |
+| Name           | Gmail                                      |
 |----------------|---------------------------------------------|
-| Aida Abdolhosseini      | [your-github](aida.abdolhoseinii@gmail.com)   |
-| Mohammad Gholami   | [teammate1](mohammadgholami7380@gmail.com)   |
-| Roham Ghousi  | [teammate2](roham.ghousi@gmail.com)   |
+| Aida Abdolhosseini      | [Gmail](aida.abdolhoseinii@gmail.com)   |
+| Mohammad Gholami   | [Gmail](mohammadgholami7380@gmail.com)   |
+| Roham Ghousi  | [Gmail](roham.ghousi@gmail.com)   |
 
 Special thanks to all team members for their contribution and teamwork.
-
----
-
-## 📄 License
-
-MIT License (add a LICENSE file if you want)
-
----
-
-## 📢 Citation
-
-If you use this system or codebase in your research or business, please cite or mention the repository!
 
 ---
 
